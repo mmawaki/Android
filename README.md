@@ -1,6 +1,8 @@
 # Android
 Projet Android de Mohammad MAWAKI
 
+Plan du projet:
+
 1. Introduction
 
 2. Un peu d'histoire
