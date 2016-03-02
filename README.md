@@ -5,9 +5,7 @@ Plan du projet:
 
 1. Introduction
 
-2. Un peu d'histoire
-
-3. Prérequis et préparation de l'environnement du travail
+2. Prérequis et préparation de l'environnement du travail
 
 	1. Utilitaires et atelier du developpement (JDK, Android SDK, ADT, AVD, Eclipse)
 
@@ -16,20 +14,24 @@ Plan du projet:
 3. Configuration
 
 4. Caractréristiques et Architecture
+	
+	1. Caractéristiques
+	
+	2. Composants et structure d'un projet
 
-	1. Composants et structure d'un projet
-
-	2. Comment Créer et initialiser un projet
+	3. Architecture
 
 3. Composants de progarmation d'un projet et cycle de vie
 
-	1. Activités
+	1. Les vues (classe android.view.View)
 
-	2. Services
+	2. Le fichier AndroidManifest.xml
 
-	3. Fournisseurs de contenu
+	3. Les composants de l'application
 
-	4. Récepteurs de diffusion
+	4. Activité (Activity).
+	
+	5. Le cycle de vie d'une activité 
 
 5. Capteurs
 
@@ -50,7 +52,3 @@ Plan du projet:
 	3. JUnit 
 
 11. Publication d'une appliaction
-
-12. Projet open source d'android
-
-13. Conclusion
