@@ -52,3 +52,7 @@ Plan du projet:
 	3. JUnit 
 
 11. Publication d'une appliaction
+
+- Le fichier Annexe.odt est le document principale du projet qui détaille le plan.
+
+- Le fichier Présentation.odp est la présentation du projet sous forme des diapositives
