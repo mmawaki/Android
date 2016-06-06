@@ -1,5 +1,10 @@
 # Android
+Nom:Mohammad MAWAKI
+Code CNAM:620t
+
 Projet Android de Mohammad MAWAKI
+
+Dans ce projet on va présenter l'installation et la configuration de l'environnement de travail d'Android ensuite on va discuter les caractréristiques et l'architecture générale, les composants et cycle de vie ainsi que les différents fonctionalités, procédures de tests et publication des applications
 
 Plan du projet:
 
